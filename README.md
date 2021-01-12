@@ -1,6 +1,6 @@
 # Steam Price Monitor
 
-This is my c2c elite qualifier project 
+This is my Code2College Elite qualifier project.
 
 ## Table of Contents
 
@@ -12,14 +12,15 @@ This is my c2c elite qualifier project
 
 ## Background
 
-This is why this application exists.
+I made this application not only because I had to make a webscraping project, but also because this is something I can actually modify further and use in the future.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+It might not work if you try to run this locally on your computer (non online IDE) due to me specifically making it capable of running on repl.it
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Copy and paste a steam link to any **game**, and type in the price you want the game at.
+Then type in your email correctly, and you will be notified when that game drops to or below the requested price
 
 ### Any optional sections
